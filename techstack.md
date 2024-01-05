@@ -62,7 +62,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [bariscaglar/azure-cli](https://github.com/bariscaglar/azure-cli)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|124<br/>Tools used|12/21/23 <br/>Report generated|
+|125<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -307,9 +307,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (98)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (99)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (97)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (98)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -317,6 +317,7 @@ Full tech stack [here](/techstack.md)
 |[MarkupSafe](https://pypi.org/project/MarkupSafe)|v1.1.1|06/25/19|Martin Strobel |BSD-3-Clause|N/A|
 |[PyJWT](https://pypi.org/project/PyJWT)|v1.7.1|06/25/19|Martin Strobel |MIT|N/A|
 |[PyNaCl](https://pypi.org/project/PyNaCl)|v1.3.0|06/25/19|Martin Strobel |Apache-2.0|N/A|
+|[PyYAML](https://pypi.org/project/PyYAML)|v5.1.1|06/25/19|Martin Strobel |MIT|[CVE-2020-14343](https://github.com/advisories/GHSA-8q59-q68h-6hv4) (Critical)|
 |[Pygments](https://pypi.org/project/Pygments)|v2.4.2|06/25/19|Martin Strobel |BSD-3-Clause|[CVE-2021-27291](https://github.com/advisories/GHSA-pq64-v7f5-gqh8) (High)<br/>[CVE-2021-20270](https://github.com/advisories/GHSA-9w8r-397f-prfh) (High)<br/>[CVE-2022-40896](https://github.com/advisories/GHSA-mrwq-x4v8-fh7p) (Moderate)|
 |[adal](https://pypi.org/project/adal)|v1.2.1|06/25/19|Martin Strobel |MIT|N/A|
 |[antlr4-python3-runtime](https://pypi.org/project/antlr4-python3-runtime)|v4.7.2|06/25/19|Martin Strobel |BSD-3-Clause|N/A|

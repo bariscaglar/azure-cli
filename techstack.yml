@@ -2,11 +2,11 @@ repo_name: bariscaglar/azure-cli
 report_id: 2dbc405e68ffad8196d2f711a0d3b4c3
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T22:33:35+00:00'
+timestamp: '2024-01-05T08:17:17+00:00'
 requested_by: dorfire
 provider: github
 branch: dev
-detected_tools_count: 124
+detected_tools_count: 125
 tools:
 - name: C#
   description: Simple, general-purpose, object-oriented programming language for the
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -37,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/bariscaglar/azure-cli
   detection_source: Repo Metadata
 - name: Jinja
   description: Full featured template engine for Python
@@ -47,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/scripts/release/homebrew/docker/requirements.txt
   detection_source: scripts/release/homebrew/docker/requirements.txt
   last_updated_by: Troy Dai
   last_updated_on: 2018-10-04 05:37:14.000000000 Z
@@ -59,6 +63,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -69,6 +74,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/src/azure-cli/requirements.py2.Darwin.txt
   detection_source: src/azure-cli/requirements.py2.Darwin.txt
   last_updated_by: Martin Strobel
   last_updated_on: 2019-06-25 19:08:17.000000000 Z
@@ -125,6 +131,7 @@ tools:
   category: Data Stores
   sub_category: NoSQL Database as a Service
   image_url: https://img.stackshare.io/service/1369/nquiptD9.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/src/azure-cli/requirements.py2.Darwin.txt
   detection_source: src/azure-cli/requirements.py2.Darwin.txt
   last_updated_by: Zim Kalinowski
   last_updated_on: 2019-07-16 07:39:05.000000000 Z
@@ -136,6 +143,7 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/2099/azureStorage.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/src/azure-cli/requirements.py2.Darwin.txt
   detection_source: src/azure-cli/requirements.py2.Darwin.txt
   last_updated_by: Zim Kalinowski
   last_updated_on: 2019-07-16 07:39:05.000000000 Z
@@ -147,6 +155,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/azure-pipelines.yml
   detection_source: azure-pipelines.yml
   last_updated_by: Martin Strobel
   last_updated_on: 2019-07-01 19:56:15.000000000 Z
@@ -159,6 +168,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli
   detection_source: Repo Metadata
 - name: Fabric
   description: Simple, Pythonic remote execution and deployment
@@ -169,6 +179,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/662/79c2d43ca09b8321909833f37a500799.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/src/azure-cli/requirements.py2.Darwin.txt
   detection_source: src/azure-cli/requirements.py2.Darwin.txt
   last_updated_by: Martin Strobel
   last_updated_on: 2019-06-25 19:08:17.000000000 Z
@@ -180,6 +191,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -189,6 +201,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/src/azure-cli/requirements.py3.Darwin.txt
   detection_source: src/azure-cli/requirements.py3.Darwin.txt
   last_updated_by: Martin Strobel
   last_updated_on: 2019-06-25 19:08:17.000000000 Z
@@ -200,6 +213,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/src/azure-cli/requirements.py2.Darwin.txt
   detection_source: src/azure-cli/requirements.py2.Darwin.txt
   last_updated_by: Martin Strobel
   last_updated_on: 2019-06-25 19:08:17.000000000 Z
@@ -212,6 +226,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: yugangw-msft
   last_updated_on: 2016-02-22 21:15:12.000000000 Z
@@ -224,6 +239,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/azure-cli.sln
   detection_source: azure-cli.sln
   last_updated_by: Travis Prescott
   last_updated_on: 2016-11-04 16:56:37.000000000 Z
@@ -235,6 +251,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/src/azure-cli/azure/cli/command_modules/appservice/sample-repo-for-deployment-test/package.json
   detection_source: src/azure-cli/azure/cli/command_modules/appservice/sample-repo-for-deployment-test/package.json
   last_updated_by: Yugang Wang
   last_updated_on: 2019-03-14 04:47:25.000000000 Z
@@ -246,6 +263,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Troy Dai
   last_updated_on: 2018-08-01 23:10:58.000000000 Z
@@ -258,6 +276,7 @@ tools:
   category: Application Hosting
   sub_category: Cloud Hosting
   image_url: https://img.stackshare.io/service/213/default_88defae415fcb9cd0ac5d36c1ed27e74133c6287.jpg
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/src/azure-cli/requirements.py2.Darwin.txt
   detection_source: src/azure-cli/requirements.py2.Darwin.txt
   last_updated_by: Zim Kalinowski
   last_updated_on: 2019-07-16 07:39:05.000000000 Z
@@ -268,6 +287,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8585/a159037c4838e54e93d9f630a295c396_normal.jpeg
+  detection_source_url: https://github.com/bariscaglar/azure-cli
   detection_source: Repo Metadata
 - name: PowerShell
   description: A task automation and configuration management framework
@@ -277,12 +297,14 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli
   detection_source: Repo Metadata
 - name: PyYAML
   website_url: http://pyyaml.org/wiki/PyYAML
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3730/no-img-open-source.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/src/azure-cli/requirements.py2.Darwin.txt
   detection_source: src/azure-cli/requirements.py2.Darwin.txt
   last_updated_by: Martin Strobel
   last_updated_on: 2019-06-25 19:08:17.000000000 Z
@@ -295,6 +317,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli
   detection_source: Repo Metadata
 - name: ConfigArgParse
   description: A drop-in replacement for argparse that allows options to also be set
@@ -353,6 +376,27 @@ tools:
   detection_source: src/azure-cli/requirements.py2.Darwin.txt
   last_updated_by: Martin Strobel
   last_updated_on: 2019-06-25 19:08:17.000000000 Z
+- name: PyYAML
+  description: YAML parser and emitter for Python
+  package_url: https://pypi.org/project/PyYAML
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19829/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/src/azure-cli/requirements.py2.Darwin.txt
+  detection_source: src/azure-cli/requirements.py2.Darwin.txt
+  last_updated_by: Martin Strobel
+  last_updated_on: 2019-06-25 19:08:17.000000000 Z
+  vulnerabilities:
+  - name: Improper Input Validation in PyYAML
+    cve_id: CVE-2020-14343
+    cve_url: https://github.com/advisories/GHSA-8q59-q68h-6hv4
+    detected_date: Aug 22
+    severity: critical
+    first_patched: '5.4'
 - name: Pygments
   description: Pygments is a syntax highlighting package written in Python
   package_url: https://pypi.org/project/Pygments
@@ -678,6 +722,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/bariscaglar/azure-cli/blob/dev/src/azure-cli/requirements.py2.Darwin.txt
   detection_source: src/azure-cli/requirements.py2.Darwin.txt
   last_updated_by: Zim Kalinowski
   last_updated_on: 2019-07-16 07:39:05.000000000 Z

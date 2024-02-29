@@ -2,7 +2,7 @@ repo_name: bariscaglar/azure-cli
 report_id: 2dbc405e68ffad8196d2f711a0d3b4c3
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:17:17+00:00'
+timestamp: '2024-02-29T19:11:05+00:00'
 requested_by: dorfire
 provider: github
 branch: dev
@@ -1097,6 +1097,12 @@ tools:
     detected_date: Feb 9
     severity: high
     first_patched: 39.0.1
+  - name: Python Cryptography package vulnerable to Bleichenbacher timing oracle attack
+    cve_id: CVE-2023-50782
+    cve_url: https://github.com/advisories/GHSA-3ww4-gg4f-jr7f
+    detected_date: Feb 6
+    severity: high
+    first_patched: 42.0.0
   - name: RSA decryption vulnerable to Bleichenbacher timing vulnerability
     cve_id: CVE-2020-25659
     cve_url: https://github.com/advisories/GHSA-hggm-jpg3-v476
@@ -1110,12 +1116,12 @@ tools:
     detected_date: Feb 8
     severity: moderate
     first_patched: 39.0.1
-  - name: pyca/cryptography's wheels include vulnerable OpenSSL
-    cve_id: 
-    cve_url: https://github.com/advisories/GHSA-jm77-qphf-c4w8
-    detected_date: Aug 2
-    severity: low
-    first_patched: 41.0.3
+  - name: Null pointer dereference in PKCS12 parsing
+    cve_id: CVE-2024-0727
+    cve_url: https://github.com/advisories/GHSA-9v9h-cgj8-h64p
+    detected_date: Feb 17
+    severity: moderate
+    first_patched: 42.0.2
   - name: Vulnerable OpenSSL included in cryptography wheels
     cve_id: 
     cve_url: https://github.com/advisories/GHSA-v8gr-m533-ghj9
@@ -1128,6 +1134,12 @@ tools:
     detected_date: Jun 3
     severity: low
     first_patched: 41.0.0
+  - name: pyca/cryptography's wheels include vulnerable OpenSSL
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-jm77-qphf-c4w8
+    detected_date: Aug 2
+    severity: low
+    first_patched: 41.0.3
 - name: enum34
   description: Python 3.4 Enum backported to 3.3
   package_url: https://pypi.org/project/enum34

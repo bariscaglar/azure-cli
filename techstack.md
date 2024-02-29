@@ -3,26 +3,26 @@
 ## Tech Stack
 bariscaglar/azure-cli is built on the following main stack:
 
-- [Microsoft Azure](https://azure.microsoft.com/en-us/) – Cloud Hosting
-- [Fabric](http://fabfile.org) – Server Configuration and Automation
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Python](https://www.python.org) – Languages
 - [C#](http://csharp.net) – Languages
 - [C++](http://www.cplusplus.com/) – Languages
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Azure Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db/) – NoSQL Database as a Service
-- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
+- [Python](https://www.python.org) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
+- [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Azure Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db/) – NoSQL Database as a Service
+- [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
+- [Azure Pipelines](https://azure.microsoft.com/ko-kr/services/devops/pipelines/) – Continuous Integration
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Fabric](http://fabfile.org) – Server Configuration and Automation
+- [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- [pip](https://pypi.org/project/pip/) – Front End Package Manager
+- [Microsoft Azure](https://azure.microsoft.com/en-us/) – Cloud Hosting
 - [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [pip](https://pypi.org/project/pip/) – Front End Package Manager
-- [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- [Azure Pipelines](https://azure.microsoft.com/ko-kr/services/devops/pipelines/) – Continuous Integration
-- [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
-- [Travis CI](http://travis-ci.com/) – Continuous Integration
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
 
@@ -32,26 +32,26 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 bariscaglar/azure-cli is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/213/default_88defae415fcb9cd0ac5d36c1ed27e74133c6287.jpg' alt='Microsoft Azure'/> [Microsoft Azure](https://azure.microsoft.com/en-us/) – Cloud Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/662/79c2d43ca09b8321909833f37a500799.png' alt='Fabric'/> [Fabric](http://fabfile.org) – Server Configuration and Automation
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1369/nquiptD9.png' alt='Azure Cosmos DB'/> [Azure Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db/) – NoSQL Database as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- <img width='25' height='25' src='https://img.stackshare.io/service/2099/azureStorage.png' alt='Azure Storage'/> [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/11331/asp.net-core.png' alt='ASP.NET Core'/> [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1369/nquiptD9.png' alt='Azure Cosmos DB'/> [Azure Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db/) – NoSQL Database as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/2099/azureStorage.png' alt='Azure Storage'/> [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
+- <img width='25' height='25' src='https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png' alt='Azure Pipelines'/> [Azure Pipelines](https://azure.microsoft.com/ko-kr/services/devops/pipelines/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/662/79c2d43ca09b8321909833f37a500799.png' alt='Fabric'/> [Fabric](http://fabfile.org) – Server Configuration and Automation
+- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg' alt='pip'/> [pip](https://pypi.org/project/pip/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/213/default_88defae415fcb9cd0ac5d36c1ed27e74133c6287.jpg' alt='Microsoft Azure'/> [Microsoft Azure](https://azure.microsoft.com/en-us/) – Cloud Hosting
 - <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg' alt='pip'/> [pip](https://pypi.org/project/pip/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png' alt='Azure Pipelines'/> [Azure Pipelines](https://azure.microsoft.com/ko-kr/services/devops/pipelines/) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/11331/asp.net-core.png' alt='ASP.NET Core'/> [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
 
@@ -62,7 +62,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [bariscaglar/azure-cli](https://github.com/bariscaglar/azure-cli)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|125<br/>Tools used|01/05/24 <br/>Report generated|
+|125<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -364,7 +364,7 @@ Full tech stack [here](/techstack.md)
 |[chardet](https://pypi.org/project/chardet)|v3.0.4|06/25/19|Martin Strobel |LGPL-2.1|N/A|
 |[colorama](https://pypi.org/project/colorama)|v0.4.1|06/25/19|Martin Strobel |BSD-3-Clause|N/A|
 |[contextlib2](https://pypi.org/project/contextlib2)|v0.5.5|07/11/19|Sam |psfrag|N/A|
-|[cryptography](https://pypi.org/project/cryptography)|v2.7|06/25/19|Martin Strobel |BSD-3-Clause,Apache-2.0|[CVE-2023-0286](https://github.com/advisories/GHSA-x4qr-2fvf-3mr5) (High)<br/>[CVE-2020-25659](https://github.com/advisories/GHSA-hggm-jpg3-v476) (Moderate)<br/>[CVE-2023-23931](https://github.com/advisories/GHSA-w7pp-m8wf-vj6r) (Moderate)<br/>[](https://github.com/advisories/GHSA-jm77-qphf-c4w8) (Low)<br/>[](https://github.com/advisories/GHSA-v8gr-m533-ghj9) (Low)<br/>[](https://github.com/advisories/GHSA-5cpq-8wj7-hf2v) (Low)|
+|[cryptography](https://pypi.org/project/cryptography)|v2.7|06/25/19|Martin Strobel |BSD-3-Clause,Apache-2.0|[CVE-2023-0286](https://github.com/advisories/GHSA-x4qr-2fvf-3mr5) (High)<br/>[CVE-2023-50782](https://github.com/advisories/GHSA-3ww4-gg4f-jr7f) (High)<br/>[CVE-2020-25659](https://github.com/advisories/GHSA-hggm-jpg3-v476) (Moderate)<br/>[CVE-2023-23931](https://github.com/advisories/GHSA-w7pp-m8wf-vj6r) (Moderate)<br/>[CVE-2024-0727](https://github.com/advisories/GHSA-9v9h-cgj8-h64p) (Moderate)<br/>[](https://github.com/advisories/GHSA-v8gr-m533-ghj9) (Low)<br/>[](https://github.com/advisories/GHSA-5cpq-8wj7-hf2v) (Low)<br/>[](https://github.com/advisories/GHSA-jm77-qphf-c4w8) (Low)|
 |[enum34](https://pypi.org/project/enum34)|v1.1.6|06/25/19|Martin Strobel |DSDP|N/A|
 |[funcsigs](https://pypi.org/project/funcsigs)|v1.0.2|06/25/19|Martin Strobel |Other|N/A|
 |[futures](https://pypi.org/project/futures)|v3.2.0|06/25/19|Martin Strobel |Python-2.0|N/A|
